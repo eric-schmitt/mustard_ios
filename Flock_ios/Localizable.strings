@@ -1,0 +1,110 @@
+/* 
+  Localizable.strings
+  Flock_ios
+
+  Created by Eric Schmitt on 4/6/16.
+  Copyright © 2016 Eric Schmitt. All rights reserved.
+*/
+
+//General
+"Cancel" = "Cancel";
+"Error" = "Error";
+"Uh Oh!" = "Uh Oh!";
+"OK" = "OK";
+"Next" = "Next";
+"Cancel" = "Cancel";
+"Back" = "Back";
+"Search" = "Search";
+"Done" = "Done";
+"Delete" = "Delete";
+
+//Registration
+"Media library" = "Media library";
+"Take a photo" = "Take a photo";
+"In the area" = "In the area";
+"Enter a name and give a photo! It's for your friends, not us." = "Enter a name and give a photo! It's for your friends, not us.";
+"Upload a photo of yourself... or your dog. Really, anything is fine." = "Upload a photo of yourself... or your dog. Really, anything is fine.";
+"Give us a name!" = "Give us a name!";
+"Login with Facebook" = "Login with Facebook";
+"Update with Facebook" = "Update with Facebook";
+"Save" = "Save";
+
+//Profile
+"Profile" = "Profile";
+
+//List
+"Seeds you haven't joined yet.";
+"Seeds" = "Seeds";
+
+//MapView
+"miles" = "miles";
+"%.0f yards" = "%.0f yards";
+"%.0f miles" = "%.0f miles";
+"%.0f meters" = "%.0f meters";
+"%.0f km" = "%.0f km";
+"Select a location." = "Select a location.";
+"Enter a search term." = "Enter a search term.";
+"No matches." = "No matches.";
+"No status updates." = "No status updates.";
+"People" = "People";
+"Not tracking" = "Not tracking";
+"Stop Tracking" = "Stop Tracking";
+"Start Tracking Now" = "Start Tracking Now";
+
+//Status
+"Type your status here..." = "Type your status here...";
+
+//Quick Status
+"I'm leaving now.";
+"I'll be late.";
+"I'll be there in 5 mintues";
+"Got a table.";
+"I'm not going to make it.";
+
+//Add Seed
+"Enter a name." = "Enter a name.";
+"No name record." = "No name record.";
+
+"Give a name" = "Give a name";
+"Start this seed now!" = "Start this seed now!";
+"Give a time" = "Give a time";
+"Tap here to remove the pin..." = "Tap here to remove the pin...";
+"Search or tap and hold the map..." = "Search or tap and hold the map...";
+"Give this place a name" = "Give this place a name";
+
+//Add People
+"Add From Contact List" = "Add From Contact List";
+"Add From Facebook" = "Add From Facebook";
+"Where would you like to add people from?" = "Where would you like to add people from?";
+"Add People" = "Add People";
+
+//Join
+"Getting your seed!" = "Getting your seed!";
+"This will just take a moment..." = "This will just take a moment...";
+"Start tracking my location" = "Start tracking my location";
+"This seed will start tracking now." = "This seed will start tracking now.";
+"You can select when to start tracking." = "You can select when to start tracking.";
+"Select a time to start tracking" = "Select a time to start tracking";
+"How long before to start?" = "How long before to start?";
+
+//Other
+"Mustard was previously refused permissions to contacts; Please go to settings and grant permission to import contacts" = "Mustard was previously refused permissions to contacts; Please go to settings and grant permission to import contacts";
+"Open Settings" = "Open Settings";
+"Adding with Facebook requires Facebook Messenger." = "Adding with Facebook requires Facebook Messenger.";
+"It doesn't seem like this device cannot send messages. Might I recommend using one of our other services?" = "It doesn't seem like this device cannot send messages. Might I recommend using one of our other services?";
+"Failed to send message." = "Failed to send message.";
+
+//Add Peopl
+"You have been invited to a Mustard Seed! Click the link below to join! \n\n %@" = "You have been invited to a Mustard Seed! Click the link below to join! \n\n %@";
+
+//API
+"Could not process image." = "Could not process image.";
+"Could not connect. Please check your internet." = "Could not connect. Please check your internet.";
+"Could not connect." = "Could not connect.";
+"Could not register." = "Could not register.";
+"Could not send." = "Could not send.";
+
+//Time
+"Yesterday" = "Yesterday";
+"Today @ %@" = "Today @ %@";
+"Tomorrow @ %@" =  "Tomorrow @ %@";
